@@ -1,0 +1,63 @@
+
+ .o{
+display: flex;
+justify-content: center;
+}
+.p{
+  display: flex;
+  justify-content: center;
+
+}
+.q{
+  display: flex;
+  justify-content: center;
+
+}
+.r{
+  justify-content: center;
+
+  display: flex;
+}
+.s{
+  display: flex;
+    justify-content: center;
+
+}
+.t{
+  display: flex;
+    justify-content: center;
+}
+@media only screen and (min-width:425px) and (max-width:768px){
+  .t{
+    display: flex;
+      justify-content: center;
+      flex-wrap:wrap;
+  }
+  .p{
+   display: flex;
+   justify-content: center;
+
+  }
+  .o{
+ display: flex;
+ justify-content: center;
+ }
+  .q{
+   display: flex;
+   justify-content: center;
+
+  }
+  .o{
+ display: flex;
+ justify-content: center;
+ }
+ .s{
+   display: flex;
+     justify-content: center;
+
+ }
+
+ .t,img{
+   margin:5px;
+ }
+}
